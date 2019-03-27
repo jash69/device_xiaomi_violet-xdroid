@@ -346,6 +346,10 @@ PRODUCT_PACKAGES += \
     android.hardware.neuralnetworks@1.1.vendor \
     android.hardware.neuralnetworks@1.0.vendor
 
+# Overlays
+PRODUCT_PACKAGES += \
+    NotchBarKiller
+
 # Perf
 PRODUCT_PACKAGES += \
     libqti-perfd-client \
