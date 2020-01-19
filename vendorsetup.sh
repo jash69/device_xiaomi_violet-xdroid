@@ -7,3 +7,4 @@ git clone --depth=1 https://github.com/SuperiorOS/android_hardware_qcom_display.
 git clone https://github.com/Evolution-X/evolution_security.git vendor/evolution/build/target/product/security
 git clone --depth=1 https://github.com/EvolutionXViolet/vendor_xiaomi_violet.git vendor/xiaomi/violet
 git clone --depth=1 https://github.com/SuperiorOS-Devices/kernel_xiaomi_violet.git kernel/xiaomi/violet
+git clone --depth=1 https://gitlab.com/princejb786/vendor_xiaomi-firmware_violet.git vendor/xiaomi-firmware/violet
