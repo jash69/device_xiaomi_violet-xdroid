@@ -19,3 +19,6 @@ git clone --depth=1 https://github.com/SuperiorOS-Devices/kernel_xiaomi_violet.g
 
 # Firmware
 git clone --depth=1 https://gitlab.com/princejb786/vendor_xiaomi-firmware_violet.git vendor/xiaomi-firmware/violet
+
+# Proton Clang
+git clone --depth=1 https://github.com/kdrag0n/proton-clang.git prebuilts/clang/host/linux-x86/clang-proton
