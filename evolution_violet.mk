@@ -17,9 +17,6 @@ TARGET_BOOT_ANIMATION_RES := 1080
 # Charging Animation
 TARGET_INCLUDE_PIXEL_CHARGER := true
 
-# Gapps
-TARGET_GAPPS_ARCH := arm64
-
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := evolution_violet
 PRODUCT_DEVICE := violet
