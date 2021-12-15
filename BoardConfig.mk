@@ -36,9 +36,6 @@ TARGET_OTA_ASSERT_DEVICE := violet
 # Animation for offline charging
 TARGET_PIXEL_CHARGE_ANIM := true
 
-# ANT+
-BOARD_ANT_WIRELESS_DEVICE := "qualcomm-hidl"
-
 # Bootloader
 TARGET_BOOTLOADER_BOARD_NAME := sm6150
 TARGET_NO_BOOTLOADER := true
