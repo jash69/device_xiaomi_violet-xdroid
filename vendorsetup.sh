@@ -7,3 +7,5 @@ git clone --depth=1 https://github.com/SuperiorOS/android_hardware_qcom_media.gi
 git clone --depth=1 https://github.com/SuperiorOS/android_hardware_qcom_display.git -b twelve-caf-sm8150 hardware/qcom-caf/sm8150/display
 git clone https://github.com/Evolution-X-Devices/device_xiaomi_extras.git device/xiaomi/extras
 git clone https://github.com/Evolution-X/evolution_security.git vendor/evolution/build/target/product/security
+git clone --depth=1 https://github.com/EvolutionXViolet/vendor_xiaomi_violet.git vendor/xiaomi/violet
+git clone --depth=1 https://github.com/SuperiorOS-Devices/kernel_xiaomi_violet.git kernel/xiaomi/violet
