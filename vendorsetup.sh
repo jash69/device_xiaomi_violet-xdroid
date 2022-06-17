@@ -12,7 +12,7 @@ git clone --depth=1 https://github.com/SuperiorOS/android_hardware_qcom_display.
 
 echo 'Cloning Vendor tree [2/5]'
 # Vendor Tree
-git clone --depth=1 https://github.com/EvolutionXViolet/vendor_xiaomi_violet.git vendor/xiaomi/violet
+git clone --depth=1 https://github.com/jash69/vendor_xiaomi_violet-xdroid vendor/xiaomi/violet
 
 echo 'Cloning Kernel tree [3/5]'
 # Kernel Tree
