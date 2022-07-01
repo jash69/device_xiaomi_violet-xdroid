@@ -15,7 +15,7 @@ TARGET_USES_MINI_GAPPS := true
 XDROID_MAINTAINER := brucetech
 
 # Bootanimation Resolution
-TARGET_BOOT_ANIMATION_RES := 1080
+XDROID_BOOT := 1080
 
 # Charging Animation
 TARGET_INCLUDE_PIXEL_CHARGER := true
