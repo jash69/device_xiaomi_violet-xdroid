@@ -12,6 +12,7 @@ $(call inherit-product, device/xiaomi/violet/violet.mk)
 $(call inherit-product, vendor/xdroid/config/common.mk)
 TARGET_SUPPORTS_QUICK_TAP := true
 TARGET_USES_MINI_GAPPS := true
+XDROID_MAINTAINER := brucetech
 
 # Bootanimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1080
